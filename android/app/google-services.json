@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001570068151",
+    "project_id": "facesearch-bef47",
+    "storage_bucket": "facesearch-bef47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001570068151:android:642e08df62f71979918f32",
+        "android_client_info": {
+          "package_name": "com.example.facesearch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH62d5VX1WzjT2fSGvQgWOEHP5pVzhqbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
