@@ -1,16 +1,27 @@
-# facesearch
+# PicRoller
 
+<p align="center">
+  <img src="https://github.com/Shashank-grd/PicRoller/blob/main/screenshots/sc-1.jpg" alt="example1" width="200" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shashank-grd/PicRoller/blob/main/screenshots/sc-2.jpg" alt="example2" width="200" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+  <!-- Add space between rows -->
+<br><br>
+
+<p align="center">
+  <img src="https://github.com/Shashank-grd/PicRoller/blob/main/screenshots/sc-3.jpg" alt="example4" width="200" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Shashank-grd/PicRoller/blob/main/screenshots/sc-4.jpg" alt="example5" width="200" height="400">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+## Overview
 The App will let users upload a picture after they upload it the app will show different pictures one by one every 2 seconds,from our backend API
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+1. Clone the repository:
+2. Install dependencies:
+3.  Start the application:
 
-A few resources to get you started if this is your first Flutter project:
+## Future Enhancements
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- this app is convert to Facesearch app in Future
